@@ -25,6 +25,7 @@ class ContactView extends StatelessWidget {
                   return Center(
                     child: SingleChildScrollView(
                       child: Column(
+                        mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                         children: [
                           SizedBox(
                             height: 10,
@@ -105,10 +106,11 @@ class ContactView extends StatelessWidget {
                                 SizedBox(
                                   width: MediaQuery.of(context).size.width / 5,
                                 ),
+                                Spacer(),
                                 Align(
                                   alignment: Alignment.centerRight,
                                   child: Row(
-                                    mainAxisAlignment: MainAxisAlignment.end,
+                                    mainAxisAlignment: MainAxisAlignment.spaceBetween,
                                     mainAxisSize: MainAxisSize.max,
                                     children: [
                                       IconButton(

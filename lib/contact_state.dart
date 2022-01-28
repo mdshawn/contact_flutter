@@ -13,11 +13,11 @@ class ContactState with ChangeNotifier {
           'phone':'019203-89105'
         },
         {
-          'name':'Samoli Islam',
-          'phone':'019xx-xxxxxx'
+          'name':'Unknown',
+          'phone':'01971752895'
         },
         {
-          'name':'Salina Islam',
+          'name':'Salina Parvin',
           'phone':'019xx-xxxxxx'
         },
         {
@@ -28,19 +28,19 @@ class ContactState with ChangeNotifier {
           'name':'Mehjabin Ruhi',
           'phone':'019xx-xxxxxx'
         },{
-          'name':'Mehjabin Ruhi',
+          'name':'Masum Khan',
           'phone':'019xx-xxxxxx'
         },{
-          'name':'Mehjabin Ruhi',
+          'name':'Alpondith',
           'phone':'019xx-xxxxxx'
         },{
-          'name':'Mehjabin Ruhi',
+          'name':'wadut vai',
           'phone':'019xx-xxxxxx'
         },{
-          'name':'Mehjabin Ruhi',
+          'name':'Brainstation',
           'phone':'019xx-xxxxxx'
         },{
-          'name':'Mehjabin Ruhi',
+          'name':'Foysal',
           'phone':'019xx-xxxxxx'
         },
       ];
